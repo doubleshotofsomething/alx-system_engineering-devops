@@ -1,0 +1,2 @@
+#!/bin/ban
+shell redirections
